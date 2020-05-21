@@ -15,4 +15,11 @@ myMLChecklist.ipynb
 nb_template.ipynb
 python_language.ipynb
 pytthon_tool/
-
+CodingPractice/
+DailyNote/
+Play/
+Project/
+interview/
+SelfStarter/*
+!SelfStarter/tensorflow2/
+thinkDSP_lean/
